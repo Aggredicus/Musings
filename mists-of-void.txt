@@ -1,0 +1,24 @@
+Little comes to me
+but the mists of void.
+When a target is set
+for hitting
+for the soul inspires
+only good.
+
+target(){
+5
+5
+6
+3
+6
+3
+}
+
+{
+5
+5
+6
+3
+6
+3
+}
