@@ -1,0 +1,26 @@
+Feel the rush of air
+that fills both your lungs
+while you sit in the dark
+musing on
+the nature of being
+and smile. 
+
+target(){
+5
+5
+6
+3
+6
+3
+}
+
+{
+5
+5
+6
+3
+6
+3*
+}
+
+// * The sixth line has two main pronunciations to choose from for the word smile. In central Michigan vernacular on the current date, one might say either "Smai-ul"-- as I normally say-- and "Smail" with a truncated consonant form of "ul" that back part of your mouth forming the vowel sound attached to the front of the word's waveform.
