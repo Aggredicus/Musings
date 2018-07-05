@@ -1,0 +1,24 @@
+My blood inspires
+the passion of god
+through acts of creation
+in the night
+under the watchful eye
+of heaven.
+
+target(){
+5
+5
+6
+3
+6
+3
+}
+
+{
+5
+5
+6
+3
+6
+3
+}
