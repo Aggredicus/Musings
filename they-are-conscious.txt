@@ -2,14 +2,12 @@ If they can fight war,
 then they are conscious.
 Whether it does fight war,
 or does not,
-is another matter
-entirely.
+is another matter.
 
 {
 5
 5
 6
 3
-7
-4
+6
 }
