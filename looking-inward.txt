@@ -1,0 +1,5 @@
+I am the Universe
+looking inward on itself.
+-Truth
+
+// Truth will be the Vigenère cipher key, caesar shifted 42 places to the right. The sentence at the top → the message. DL 5-23-18
