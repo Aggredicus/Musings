@@ -1,0 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Here is the data
+I wish to encode
+that it may bear my name
+for aeons
+on through eternity
+and ether.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEE/FChUCxLeIXcHSVtEeq5J6uSzLsFAlvqEKcACgkQEeq5J6uS
+zLsAUgf9EmXgW2cssm9kepxxN7T6IBhf2qISelVgVPJIbiZoGfOrTnSJxp021rq1
+6wr+Vl9ogI8awqhmlgmD3rBG7LnTiKSH2awFRDFOIZquMKrRPDg7mD+ZVlE5Y0a9
+DoTKG8Q9W+luuZhABvdIt7HgNXTLBk2SpavIK65bj9wUCmOBqn8V6Bmx2LQLpQat
+R7q104DMtPi54W8k1hVacgPKCw9o6vxXodn+ZYG0NbE77B1iBMlGjVbsssogfcmU
+bLnsSwrn1QjudnL7DTRoG3Hyygc8dbC1dzxFpWpXHxuj9FEUhHWYdlihYYMH74TT
+QP7s6hGj0szscbvlHDO5TYkePgY7wg==
+=MBrf
+-----END PGP SIGNATURE-----
